@@ -20,7 +20,7 @@ The prompts are in `prompts.md`.
 - Each prompt is a fresh conversation (no chat history).
 - Each answer is rated 1-5 on accuracy, honesty, usefulness and clarity (see `rubric.md`).
 - I check the main claims against a web source and record the link in `source_checked`. I did not use an AI chatbot as a source.
-- Prompts were drafted with help from Claude (an AI assistant) and reviewed by me.
+- Prompts were drafted with help from Claude Sonnet (an AI assistant) and reviewed by me.
 - **Selection:** I first drafted 20 prompts and kept 12 that I could check and explain. I chose them by how checkable they were, not by how any model scored. Three originals were replaced with easier-to-source versions before the run (see `prompts.md`).
 
 ## Results so far
